@@ -1,5 +1,7 @@
+[![MasterHead](https://visme.co/blog/wp-content/uploads/2020/02/header.gif)](https://himanshirawat.io)
 <h1 align="center">Hi 👋, I'm Himanshika Rawat</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+<img align = "right" alt= "coding" width = "400" src="https://greenway.com.vn/wp-content/uploads/2020/02/z2296537155291_031df31c0bf85c7bc1de48699cb3c814.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himanshirawat&label=Profile%20views&color=0e75b6&style=flat" alt="himanshirawat" /> </p>
 
