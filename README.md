@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **himanshirawat604@gmail.com**
 
-- 📄 Know about my experiences [**Resume**](https://drive.google.com/file/d/1_gY4mVm9TYRXCj6tx55DaHc7KEHWsdad/view?usp=share_link) 
+- 📄 Know about my experiences [**Resume**](https://drive.google.com/file/d/1-oCc5O-_OVkSrItmNk2CLlB_9GkYOJ2t/view?usp=sharing) 
 
 - ⚡ Fun fact **Here is an Artist**
 
