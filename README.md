@@ -1,4 +1,5 @@
-[![MasterHead](<img align = "center" alt= "coding" width = "400" src="https://i.pinimg.com/564x/7c/2b/ac/7c2bacf83a09e8390eb6802a57d22c88.jpg">](https://himanshirawat.io)
+[![MasterHead]](https://himanshirawat.io)
+<img align = "center" alt= "coding" width = "400" src="https://i.pinimg.com/564x/7c/2b/ac/7c2bacf83a09e8390eb6802a57d22c88.jpg">
 <h1 align="center">Hi 👋, I'm Himanshika Rawat</h1>
 <h3 align="center">A passionate Full Stack Web Developer from India</h3>
 <img align = "right" alt= "coding" width = "400" src="https://i.pinimg.com/564x/5a/87/28/5a872804c8b133c1f81d6e9b3769aa15.jpg">
