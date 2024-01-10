@@ -22,6 +22,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/himanshi-rawat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="himanshi-rawat" height="30" width="40" /></a>
 <a href="https://instagram.com/himanshirawat18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="himanshirawat18" height="30" width="40" /></a>
+<a href="https://in.pinterest.com/himanshirawat604/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/pinterest.svg" alt="himanshirawat604" height="30" width="40" /></a>
 </p>
 
 
