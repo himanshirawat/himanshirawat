@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **himanshirawat604@gmail.com**
 
-- 📄 Know about my experiences [**Resume**](https://drive.google.com/file/d/1x67EtykoM9Uk68ys-toOTd-1lrcjmsqD/view?usp=sharing)
+- 📄 Know about my experiences [**Resume**](https://drive.google.com/file/d/1_WtV9svYzwkAsE7lUHQPaaGzpForxRjn/view?usp=sharing)
   
 - See my work [**Portfolio**](https://himanshirawat.github.io/Portfolio/)
 
