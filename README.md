@@ -54,7 +54,7 @@ Full Stack Web Developer  • MERN & Next.js
 
 ### Portfolio & Profiles
 
--  **Portfolio:** [https://himanshirawat.io](https://himanshirawat.io)
+-  **Portfolio:** [himanshirawat](https://himanshirawat.github.io/Portfolio/)
 -  **Resume:** [View Resume](https://drive.google.com/file/d/1_WtV9svYzwkAsE7lUHQPaaGzpForxRjn/view)
 -  **Coding Practice:** [GeeksforGeeks](https://auth.geeksforgeeks.org/user/himanshirawat604/practice)
 
